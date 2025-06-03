@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(42, 42, 44);
+    
+}
+.cabecalho {
+    background-color: rgb(42, 42, 44);
+    height: 200px;
+    display: flex;
+    justify-content: end;
+    gap: 10px;  
+    align-items: center;
+}
+img {
+    width: 300px;
+}
+.google{
+    background-color: rgb(42, 42, 44);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.logo {
+
+    background-color: rgb(42, 42, 44);
+    width: 300px;
+    display: inline;
+    
+    justify-content: center; 
+    gap: 10px;  
+    align-items: center;
+}
+.inputtext{
+    width: 350px;
+}
+.corpo {
+    background-color: rgb(42, 42, 44);
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    gap: 10px;  
+    align-items: center;
+    width: 300px;
+}
+
+
